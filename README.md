@@ -1,5 +1,8 @@
 # AngularDemoApp
 
+This app is an implementation of the course available at the following link:
+https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
 ## Development server
